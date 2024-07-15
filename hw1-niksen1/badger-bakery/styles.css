@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+  font-size: large;
+  background-color:darkgreen;
+  color: white;
+}
+
+.secondary-button {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  padding-left: 0cqmin;
+}
